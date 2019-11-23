@@ -1,0 +1,92 @@
+## intent:greet
+- hey
+- hey how are you
+- hello
+- hi
+- good morning
+- good evening
+- hey there
+- hey Bot
+- hi bot
+- hey bot
+- hi again
+- hi folks
+- hi mister
+- hi pal!
+- hi there
+- greetings
+- hello everybody
+- hello is anybody there
+- hello robot
+
+
+## intent:product_survey
+- how's our product performance?
+- what is your feedback regarding our product?
+- is our product fulfil your all request?
+- Our product helpful for you?
+- Can Our product give you smarter results?
+- can Our product attract you while you using our product?
+- suggestions to improve Our product?
+- Have you used our porduct or service before?
+- Why did you choose to use our proudct or service over other options?
+- Have you you a similar product?
+- What are your main concerns or questions about Our product
+- Do you fee or product is worth the cost?
+- what convinced you to buy the product?
+- What do you like most aboout our product?
+- What do you like least?
+- where did you first hear about us?
+- how would you rate your experience?
+- Which feature do you love?
+- Which feature do you wish we had?
+- How often do you use or product?
+- how long have you had the product?
+- what was your initial impression of the product?
+- how well the product served you?
+- how well does our product meets your needs?
+- what feature/option could we add to make your experience better?
+- what is your main goal for using this product?
+- where did you first hear about us?
+- do you feel our product is worth the cost?
+- which feauture you like the most?
+- which feature you have wrost experience?
+- what nearly stopped you from buying?
+- what challenges are you trying to solve?
+- how could we have gone above and beyond?
+- how satisfied are you with our product?
+
+
+## intent:goodbye
+- bye
+- goodbye
+- see you later
+- bye bot
+- goodbye friend
+- bye
+- bye for now
+- catch you later
+- gotta go
+- See you
+- goodnight
+- have a nice day
+- i'm off
+- see you later alligator
+- we'll speak soon
+
+## intent:thankyou
+- thanks
+- thank you
+- thank you so much
+- thanks bot
+- thanks for that
+- cheers
+- cheers bro
+- ok thanks!
+- perfect thank you
+- thanks a bunch for everything
+- thanks for the help
+- thanks a lot
+- amazing, thanks
+- cool, thanks
+- cool thank you
